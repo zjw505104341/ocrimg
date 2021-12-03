@@ -4,13 +4,13 @@
 # CreatDate: 2021/12/3 11:38
 
 from setuptools import find_packages, setup
-version = '0.0.2'
-author = 'zhoujunwei'
+# version = '0.0.1'
+# author = 'zhoujunwei'
 setup(
     name='zjwocr',  #　包的名字
-    version=version,
+    version='0.0.1',
     description='test',
-    author=author,
+    author='zhoujunwei',
     author_email='505104341@qq.com',
     url='https://github.com/zjw505104341/ocrimg',
     #packages=find_packages(),
