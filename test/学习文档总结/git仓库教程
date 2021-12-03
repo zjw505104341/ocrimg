@@ -1,0 +1,14 @@
+
+# https://cloud.tencent.com/developer/article/1861466
+# https://blog.csdn.net/sinat_36728518/article/details/119733175
+
+一. 在github建一个仓库，公开仓库
+    1. token配置到github,settings下的ssh
+    这个目录下的 C:\Users\50510\.ssh\id_rsa.pub
+二.
+    使用git拉取仓库代码
+    1. git clone https://github.com/zjw505104341/ocrimg.git
+    2. .git目录下config 文件
+        url = git@github.com:zjw505104341/ocrimg.git
+        修改上面这个格式，去 https://github.com/zjw505104341/ocrimg 找url
+

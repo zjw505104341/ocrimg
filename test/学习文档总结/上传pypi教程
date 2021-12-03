@@ -1,0 +1,15 @@
+
+首先要有一个git仓库,仓库建的教程，网上找一下，或者参看，上面的文档
+
+
+参考： https://www.cnblogs.com/szmcn/p/10710998.html
+# 打包
+python setup.py sdist
+# 安装
+python setup.py install
+# 上传pypi
+twine upload dist/*
+# 用户测试下载
+pip3 install zjwocr -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+
