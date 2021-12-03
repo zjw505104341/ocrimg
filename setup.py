@@ -8,7 +8,7 @@ from setuptools import find_packages, setup
 # author = 'zhoujunwei'
 setup(
     name='zjwocr',  #　包的名字
-    version='0.0.2',
+    version='0.0.1',
     description='test',
     author='zhoujunwei',
     author_email='505104341@qq.com',
