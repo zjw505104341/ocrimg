@@ -12,6 +12,6 @@ setup(
     author_email='505104341@qq.com',
     url='https://github.com/zjw505104341/ocrimg',
     #packages=find_packages(),
-    packages=['autotest'],
+    packages=['zjwocr'], # 包的目录
     #install_requires=['requests'],
 )
