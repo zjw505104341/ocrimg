@@ -4,7 +4,7 @@
 # CreatDate: 2021/12/3 11:38
 
 from setuptools import find_packages, setup
-version = '0.0.1'
+version = '0.0.2'
 author = 'zhoujunwei'
 setup(
     name='zjwocr',  #　包的名字
