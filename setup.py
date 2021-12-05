@@ -15,7 +15,8 @@ setup(
     author='周军威',
     author_email='505104341@qq.com',
     url='https://github.com/zjw505104341/ocrimg',
-    packages=find_packages(where='.', exclude=(), include=('*',)),
+    # packages=find_packages(where='.', exclude=(), include=('*',)),
+    packages=["zjwocr"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
