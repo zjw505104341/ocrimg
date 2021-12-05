@@ -4,8 +4,8 @@
 
 参考： https://www.cnblogs.com/szmcn/p/10710998.html
 # 打包
-第一次使用这个命令  python3 setup.py sdist
-更新使用这个命令    python3 setup.py sdist bdist
+第一次使用这个命令  python setup.py sdist
+更新使用这个命令    python setup.py sdist bdist
 # 安装
 python setup.py install
 # 上传pypi
