@@ -6,6 +6,7 @@
 from setuptools import find_packages, setup
 # version = '0.0.1'
 # author = 'zhoujunwei'
+
 setup(
     name='zjwocr',  #　包的名字
     version='0.0.3',
