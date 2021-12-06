@@ -3,6 +3,7 @@
 
 
 参考： https://www.cnblogs.com/szmcn/p/10710998.html
+pip install twine
 # 打包
 第一次使用这个命令  python setup.py sdist
 更新使用这个命令    python setup.py sdist bdist
