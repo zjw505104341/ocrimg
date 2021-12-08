@@ -3,7 +3,7 @@
 # Author: zhou jun wei
 # CreatDate: 2021/12/8 13:05
 
-# 标注工具v.1
+# 标注工具v.1,仅支持缩放为100% 的电脑，例如 拯救者y7000  缩放比为 125% 本代码，不支持。
 
 from PyQt5.QtWidgets import QApplication, QMessageBox, QLabel, QWidget, QPushButton
 import sys, os, random, string
